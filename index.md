@@ -7,6 +7,6 @@ THIS IS MANYMUSIC-HOME
 
 Here goes the content of the home page.
 
-- [ManyMusic-Stim](stim/index.md)
+- [ManyMusic-Stim](https://manymusic.net/stim/)
 
 More to come! 😃
