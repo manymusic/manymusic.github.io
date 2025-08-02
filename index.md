@@ -2,6 +2,7 @@
 title: Home
 layout: home
 ---
+<img src="figs/logo-four.png" alt="ManyMusic Logo" style="width: 200px">
 
 THIS IS MANYMUSIC-HOME
 
