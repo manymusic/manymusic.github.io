@@ -2,11 +2,14 @@
 title: Home
 layout: home
 ---
-<img src="figs/logo-four.png" alt="ManyMusic Logo" style="width: 200px">
+<!-- <img src="figs/logo-four.png" alt="ManyMusic Logo" style="width: 200px"> -->
+<img src="figs/manymusic-overview.png" alt="ManyMusic Overview" style="width: 700px">
 
-ManyMusic🎵[^1] is a project dedicated for deep-phenotyping of music-evoked emotions using 1K+ full-length open-access musical pieces, continuous emotional rating timeseries, electrophysiological signals, and functional neuroimaging data.
+ManyMusic🎵[^1] is a project dedicated for deep-phenotyping of music-evoked emotions using 1K+ full-length musical pieces, continuous emotional rating timeseries, electrophysiological signals, and functional neuroimaging data.
 
-Here goes the content of the home page.
+This project is still ongoing. We finished the stimulus curation and validation phases, and we are currently collecting EEG+ data. The data and code will be made openly available upon the project completion.
+
+## Subprojects
 
 - [ManyMusic-Stim](/stim/)
 - [ManyMusic-Rec](/rec/)
