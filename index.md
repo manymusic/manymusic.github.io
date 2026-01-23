@@ -16,5 +16,10 @@ This project is still ongoing. We finished the stimulus curation and validation 
 
 More to come! 😃
 
+
+## News & Updates
+- 2024-06-15: ManyMusic website is launched! 🚀
+- 2024-05-30: ManyMusic-Stim subproject is completed. Stimulus set and validation data are now available. 🎉
+
 ----
-[^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg). Main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov). Please direct any questions or comments to [Seung-Goo Kim](mailto:seung-goo.kim@ae.mpg.de).
+[^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg). Main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov). Project supervisor is [Apl. Prof. Daniela Sammeler](https://www.aesthetics.mpg.de/en/the-institute/people/daniela-sammler.html). Please direct any questions or comments to [Seung-Goo Kim](mailto:seung-goo.kim@ae.mpg.de).
