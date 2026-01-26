@@ -24,5 +24,5 @@ More to come! 😃
 ----
 [^1]: The work is a collaboration between the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html) and [Pompeu Fabra University](https://www.upf.edu/web/mtg). Main contributors are [Seung-Goo Kim](https://github.com/seunggookim/), [Pablo Alonso](https://github.com/palonso), and [Dmitry Bogdanov](https://github.com/dbogdanov). Project supervisor is [Apl. Prof. Daniela Sammeler](https://www.aesthetics.mpg.de/en/the-institute/people/daniela-sammler.html). Please direct any questions or comments to [Seung-Goo Kim](mailto:seung-goo.kim@ae.mpg.de).
 
-[ManyMusic-Rec]: (/rec/)
-[ManyMusic-Stim]: (/stim/)
+[ManyMusic-Rec]: /rec/
+[ManyMusic-Stim]: /stim/
