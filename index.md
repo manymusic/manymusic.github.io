@@ -35,4 +35,4 @@ More to come! 😃
 [ManyMusic-Rec]: /rec/
 [ManyMusic-Stim]: /stim/
 [ManyMusic-Acq]: /acq/
-[poster]: /figs/kim+.2025.musafx.sab.pdf
+[poster]: /figs/kim+.2026.musafx.sab.pdf
